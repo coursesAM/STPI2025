@@ -1,27 +1,15 @@
 # Machine Learning in Python/TensorFlow (or PyTorch) from Scratch - sponsored by [image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c9fa0d3-63f1-4f31-b333-607fb96491ae)
 
 
-## Course Info
+**Instructors:** 
+* Rajdip Nayek (rajdipn@am.iitd.ac.in) 
+* Souvik Chakraborty (souvik@am.iitd.ac.in)                 
 
-**Credit:** 3 units (2-0-2) <br> 
-
-**Pre-requisites:** APL101/MTL106/MTL108, COL106 <br>
-
-**Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> 
-
-**Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br>
-
-**Practical Session:** Fri (3 PM to 5 PM) at two labs LH503  <br> <br>
-
-**Attendance and Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
-
-**Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: By email appointment (Room B24, Block 4) <br><br>
-
-**Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
+**Class Schedule:** In LHC 212 (Conference Room)
+![image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c3d9cdf-b888-4184-8c78-1f90342dd3f6)
 
 
-**NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
+**Assessment Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
 
 ## Table of Contents
 - [Course Content](#course-content)
