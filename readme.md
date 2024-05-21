@@ -51,6 +51,15 @@ These methods will be studied from various applications throughout the course. T
 * k-means clustering
 * EM algorithm
 
+
+https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-
+
+## Lecture Schedule (by Prof. Rajdip Nayek)
+| Main Topic |Lecture Notes | Extra reading material |
+|:----------:|:------------------------------:|:-----------------:|
+| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | [AL] Chapter 2|
+
+
 ## Lecture Schedule
 
 |Module#| Main Topic | Sub Topics|Lecture Notes (2024)| Extra material |
