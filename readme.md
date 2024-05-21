@@ -34,30 +34,12 @@ This is an introductory course to statistical machine learning for students with
 
 These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection, and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) and practice (notably the lab and the course project). The practical part will be implemented using Python.
 
-## Course Structure
-* Introduction 
-* k-NN and Decision Trees 
-* Linear Regression and Logistic regression 
-* Polynomial regression
-* Bias-Variance decomposition
-* Loss function vs likelihood-based models
-* Regularization
-* Parameter optimization
-* Three sets: Train, test, validation
-* Neural Networks (NN)
-* Support vector machine (SVM) 
-* Ensemble algorithms
-* PCA
-* k-means clustering
-* EM algorithm
-
-
-https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-
 
 ## Lecture Schedule (by Prof. Rajdip Nayek)
 | Main Topic |Lecture Notes | Extra reading material |
 |:----------:|:------------------------------:|:-----------------:|
-| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | [AL] Chapter 2|
+| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | [AL] Chapter 1|
+| Pandas Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | [AL] Chapter 2|
 
 
 ## Lecture Schedule
