@@ -38,8 +38,9 @@ These methods will be studied from various applications throughout the course. T
 ## Lecture Schedule (by Prof. Rajdip Nayek)
 | Main Topic |Lecture Notes | Extra reading material |
 |:----------:|:------------------------------:|:-----------------:|
-| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | [AL] Chapter 1|
-| Pandas Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | [AL] Chapter 2|
+| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | |
+| Pandas and Matplotlib <br> Crash Course|  [Colab notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | |
+| Load data from csv files |  [Colab notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | |
 
 
 ## Lecture Schedule
