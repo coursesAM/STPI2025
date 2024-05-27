@@ -42,6 +42,7 @@ These methods will be studied from various applications throughout the course. T
 | Pandas and Matplotlib <br> Crash Course|  [Colab notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | |
 | Load data from csv files |  [Colab notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) | |
 
+[Quick links for references](https://vedraiyani.github.io/notes-1/ipynb/index.html)
 
 ## Lecture Schedule
 
