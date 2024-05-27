@@ -7,7 +7,9 @@ Sponsored by [image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c9f
 * Souvik Chakraborty (souvik@am.iitd.ac.in)                 
 
 **Class Schedule:** In LHC 212 (Conference Room)
-![image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c3d9cdf-b888-4184-8c78-1f90342dd3f6)
+<br>
+![image](https://github.com/coursesAM/CRIS2024/assets/109568856/e1602c8d-b2cd-4fc1-b85f-f8c603bef70e)
+
 
 
 **Assessment Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
