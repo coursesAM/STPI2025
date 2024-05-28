@@ -45,8 +45,9 @@ The course includes theory and practice (notably the practicals (P)).
 <br> <br>
 
 # Some Course Lectures Material
+
 | Topic | Lecture Notes | 
-|:------------------------------:|:------------------:|
+|:--------------------------:|:------------------:|
 | Introduction to AI/ML | [L1](Lectures/Intro2ML.pdf) | 
 | Introduction to Supervised Learning | [L2](Lectures/Intro2Supervised.pdf)|
 | k-Nearest Neighbours |  [L3](Lectures/kNN.pdf) | 
