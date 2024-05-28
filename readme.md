@@ -7,6 +7,7 @@ Welcome to the course website!
 * Rajdip Nayek (rajdipn@am.iitd.ac.in) 
 * Souvik Chakraborty (souvik@am.iitd.ac.in)                 
 
+<br> <br>
 **Class Schedule:** In LHC 212 (Conference Room)
 <br> <br>
 
