@@ -44,9 +44,10 @@ The course includes theory and practice (notably the practicals (P)).
 | RN (sky blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
 |Instructor| Topic | Lecture Notes | 
-|:----------:|:------------------------------:|:------------------:
-|RN (blue) | Python and NumPy Crash Course | [Lecture 1](Lectures/Lecture1.pdf)  | |
-|RN (blue) | Pandas and Matplotlib Crash Course| [Lecture 2](Lectures/Lecture2.pdf)|
+|:----------:|:------------------------------:|:------------------:|
+|RN (blue) | Python and NumPy Crash Course | [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
+|RN (blue) | Pandas and Matplotlib Crash Course| [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
+|RN (blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
 
 ## Course References
