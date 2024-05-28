@@ -43,7 +43,6 @@ The course includes theory and practice (notably the practicals (P)).
 | RN (sky blue) | Pandas and Matplotlib Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 | RN (sky blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
-[Quick links for references](https://vedraiyani.github.io/notes-1/ipynb/index.html)
 
 ## Course References
 * [AL] Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
