@@ -32,7 +32,8 @@ The course includes theory and practice (notably the practicals (P)).
 <br> <br>
 ![image](https://github.com/coursesAM/CRIS2024/assets/109568856/4ab3910d-6044-4b56-a66f-bfb0964ba97c)
 
-
+<br> <br>
+# Lectures
 
 |Instructor| Topic | Lecture Notes | 
 |:----------:|:------------------------------:|:------------------:|
