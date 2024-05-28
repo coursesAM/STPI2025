@@ -36,9 +36,9 @@ The course includes theory and practice (notably the practicals (P)).
 ## Lecture Schedule (by Prof. Rajdip Nayek)
 | Main Topic |Lecture Notes | 
 |:----------------------------------------------------------:|:------------------------------:|
-| Python and NumPy <br> Crash Course|  [Colab notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
-| Pandas and Matplotlib <br> Crash Course|  [Colab notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
-| Load data from csv files |  [Colab notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
+| Python and NumPy <br> Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
+| Pandas and Matplotlib <br> Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
+| Load data from csv files |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
 [Quick links for references](https://vedraiyani.github.io/notes-1/ipynb/index.html)
 
