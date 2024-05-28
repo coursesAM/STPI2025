@@ -25,7 +25,7 @@ The course includes theory and practice (notably the practicals (P)).
 **Class Schedule:** In LHC 212 (Conference Room)
 <br> <br>
 
-**Assessment:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
+**Participants:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
 
 <br> <br>
 ![image](https://github.com/coursesAM/CRIS2024/assets/109568856/4ab3910d-6044-4b56-a66f-bfb0964ba97c)
