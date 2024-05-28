@@ -41,11 +41,14 @@ The course includes theory and practice (notably the practicals (P)).
 |RN (blue) | Pandas and Matplotlib Crash Course| [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
 |RN (blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
+<br> <br>
 
 ## Course References
 * [AL] Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
 * Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
 * Jake VanderPlas, *"Python Data Science Handbook"*, 2016 [[Book website](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)].
+
+<br> <br>
 
 ## Grading  
 Assessment will be done using marks obtained in practicals
