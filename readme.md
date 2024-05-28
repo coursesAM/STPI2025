@@ -3,6 +3,19 @@ Sponsored by [image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c9f
 
 Welcome to the course website!
 
+## Course Content
+This is an introductory course to machine learning for CRIS participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
+- Linear regression
+- Classification via logistic regression
+- Support Vector Machine 
+- Decision trees
+- Neural networks (ANN, CNN, RNN)
+- k-means clustering
+
+Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
+The course includes theory and practice (notably the practicals (P)). 
+
+<br> <br>
 **Instructors:** 
 * Rajdip Nayek (rajdipn@am.iitd.ac.in) 
 * Souvik Chakraborty (souvik@am.iitd.ac.in)                 
@@ -18,27 +31,6 @@ Welcome to the course website!
 
 
 
-## Table of Contents
-- [Course Content](#course-content)
-- [Course Structure](#course-structure)
-- [Lecture Schedule](#lecture-schedule)
-- [Practical Schedule](#practical-schedule)
-- [Homework Schedule](#homework-schedule)
-- [Course References](#course-references)
-- [Grading](#grading)
-- [Project](#project)
-
-## Course Content
-This is an introductory course to machine learning for CRIS participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
-- Linear regression
-- Classification via logistic regression
-- Support Vector Machine 
-- Decision trees
-- Neural networks (ANN, CNN, RNN)
-- k-means clustering
-
-Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
-The course includes theory and practice (notably the practicals (P)). 
 
 
 ## Lecture Schedule (by Prof. Rajdip Nayek)
