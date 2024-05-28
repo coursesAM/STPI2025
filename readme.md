@@ -16,6 +16,8 @@ This is an introductory course to machine learning for CRIS participants with so
 Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
 The course includes theory and practice (notably the practicals (P)). 
 
+**Note**: Participants must have wifi access and a Google account so that they can work with Google Colab.
+
 <br> <br>
 **Instructors:** 
 * Rajdip Nayek (rajdipn@am.iitd.ac.in) 
@@ -39,7 +41,7 @@ The course includes theory and practice (notably the practicals (P)).
 |:----------------------------------------------------------:|:------------------------------:|
 | Python and NumPy <br> Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
 | Pandas and Matplotlib <br> Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
-| Load data from csv files |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
+| Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
 [Quick links for references](https://vedraiyani.github.io/notes-1/ipynb/index.html)
 
