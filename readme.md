@@ -39,15 +39,15 @@ The course includes theory and practice (notably the practicals (P)).
 ## Lecture Schedule
 | Instructor | Topic | Lecture Notes | 
 |:-------------:|:------------------------------------------------:|:------------------------------:|
-| RN (sky blue) | Python and NumPy Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
+| RN (blue) | Python and NumPy Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
 | RN (sky blue) | Pandas and Matplotlib Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 | RN (sky blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
-|Module#| Main Topic | Sub Topics|Lecture Notes (2024)| Extra material |
-|:----------:|:------------------------------:|:------------------:|:-----------------:|:-----------:|
-|Mod 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  | |
-|Mod 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| [AL] Chapter 2|
-|Mod 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5](Lectures/Lecture5.pdf) <br> [Lecture 6](Lectures/Lecture6.pdf) <br> [Lecture 7](Lectures/Lecture7.pdf)| [AL] Chapter 3 |
+|Instructor| Topic | Lecture Notes | 
+|:----------:|:------------------------------:|:------------------:
+|RN (blue) | Python and NumPy Crash Course | [Lecture 1](Lectures/Lecture1.pdf)  | |
+|RN (blue) | Pandas and Matplotlib Crash Course| [Lecture 2](Lectures/Lecture2.pdf)|
+
 
 ## Course References
 * [AL] Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
