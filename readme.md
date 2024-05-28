@@ -8,7 +8,7 @@ Sponsored by [image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c9f
 
 **Class Schedule:** In LHC 212 (Conference Room)
 <br>
-![image](https://github.com/coursesAM/CRIS2024/assets/109568856/e1602c8d-b2cd-4fc1-b85f-f8c603bef70e)
+![image](https://github.com/coursesAM/CRIS2024/assets/109568856/4ab3910d-6044-4b56-a66f-bfb0964ba97c)
 
 
 
