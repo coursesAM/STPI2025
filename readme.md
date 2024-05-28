@@ -22,7 +22,7 @@ The course includes theory and practice (notably the practicals (P)).
 * Souvik Chakraborty (souvik@am.iitd.ac.in)                 
 
 <br> <br>
-**Class Schedule:** In LHC 212 (Conference Room)
+**Venue:** IIT Delhi, LHC 212 (Conference Room)
 <br> <br>
 
 **Participants:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
