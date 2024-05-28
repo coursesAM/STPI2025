@@ -54,7 +54,7 @@ The course includes theory and practice (notably the practicals (P)).
 | Linear Regression | [L5](Lectures/LinearRegression.pdf)|
 | Logistic Regression | [L6](Lectures/LogisticRegression.pdf)|
 
-
+<br> <br>
 
 ## Course References
 * [AL] Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
