@@ -20,8 +20,8 @@ The course includes theory and practice (notably the practicals (P)).
 
 <br> <br>
 **Instructors:** 
-* Rajdip Nayek (rajdipn@am.iitd.ac.in) 
-* Souvik Chakraborty (souvik@am.iitd.ac.in)                 
+* Rajdip Nayek [RN] (rajdipn@am.iitd.ac.in) 
+* Souvik Chakraborty [SC] (souvik@am.iitd.ac.in)                 
 
 <br> <br>
 **Venue:** IIT Delhi, LHC 212 (Conference Room)
@@ -36,12 +36,12 @@ The course includes theory and practice (notably the practicals (P)).
 
 
 
-## Lecture Schedule (by Prof. Rajdip Nayek)
-| Main Topic |Lecture Notes | 
-|:----------------------------------------------------------:|:------------------------------:|
-| Python and NumPy Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
-| Pandas and Matplotlib Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
-| Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
+## Lecture Schedule
+|Instructor| Topic |Lecture Notes | 
+|:-----:|:----------------------------------------------------------:|:------------------------------:|
+| RN (sky blue) | Python and NumPy Crash Course|  [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) |
+| RN (sky blue) | Pandas and Matplotlib Crash Course|  [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
+| RN (sky blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt) |
 
 [Quick links for references](https://vedraiyani.github.io/notes-1/ipynb/index.html)
 
