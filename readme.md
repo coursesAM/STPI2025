@@ -1,7 +1,6 @@
 # Machine Learning in Python/TensorFlow (or PyTorch) from Scratch 
-Sponsored by 
+Sponsored by Center for Railway Information Systems (CRIS)
 
-[image](https://github.com/coursesAM/CRIS2024/assets/109568856/7c9fa0d3-63f1-4f31-b333-607fb96491ae)
 
 Welcome to the course website!
 
