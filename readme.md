@@ -55,6 +55,7 @@ The course includes theory and practice (notably the practicals (P)).
 | Decision Trees (CART) | [L4](Lectures/DecisionTrees.pdf)|
 | Linear Regression | [L5](Lectures/LinearRegression.pdf)|
 | Logistic Regression | [L6](Lectures/LogisticRegression.pdf)|
+| Optimization | [L7](Lectures/Optimization.pdf) |
 
 <br> <br>
 
