@@ -42,7 +42,7 @@ The course includes theory and practice (notably the practicals (P)).
 |SC (yellow) | Linear Regression <br> Logistic Regression | [Lecture](Lectures/Lecture-3_cris.pdf) | 
 |RN (blue) | Pandas and Matplotlib Crash Course| [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
 |RN (blue) | Data Wrangling/ Understanding your data <br> Prepare Data for ML  |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
-|RN (blue) | Linear Regression with PyTorch | [LinReg](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
+|RN (blue) | Linear Regression from Scratch & Sklearn <br> Linear Regression with PyTorch | [LinReg_Scratch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing)|
 |RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1ty1mCbRNJcVSkXvo2SYe_6ZEIAoD7qtn#scrollTo=zgjnhjofj22j) |
 
 
