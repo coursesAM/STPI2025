@@ -48,7 +48,7 @@ The course includes theory and practice (notably the practicals (P)).
 
 <br> <br>
 
-# Some Course Lectures Material
+# Some Course Lectures Material (by RN)
 
 | Topic | Lecture Notes | 
 |:--------------------------:|:------------------:|
