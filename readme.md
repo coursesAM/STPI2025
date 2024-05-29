@@ -37,10 +37,11 @@ The course includes theory and practice (notably the practicals (P)).
 
 |Instructor| Topic | Lecture Notes | 
 |:----------:|:------------------------------:|:------------------:|
-|RN (blue) | Python and NumPy Crash Course | [Notebook 1](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
-|RN (blue) | Pandas and Matplotlib Crash Course| [Notebook 2](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
-|RN (blue) | Data Wrangling/ Understanding your data |  [Notebook 3](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) | 
-|RN (blue) | Prepare Data for ML | [Notebook 4](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing)|
+|RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
+|RN (blue) | Pandas and Matplotlib Crash Course| [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
+|RN (blue) | Data Wrangling/ Understanding your data |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) | 
+|RN (blue) | Prepare Data for ML | [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing)|
+|RN (blue) | Linear Regression with PyTorch | [LinReg](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
 
 <br> <br>
 
