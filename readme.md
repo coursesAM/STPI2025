@@ -43,6 +43,7 @@ The course includes theory and practice (notably the practicals (P)).
 |RN (blue) | Data Wrangling/ Understanding your data |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) | 
 |RN (blue) | Prepare Data for ML | [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing)|
 |RN (blue) | Linear Regression with PyTorch | [LinReg](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
+|RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1ty1mCbRNJcVSkXvo2SYe_6ZEIAoD7qtn#scrollTo=zgjnhjofj22j) |
 
 
 <br> <br>
