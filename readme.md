@@ -16,7 +16,7 @@ This is an introductory course to machine learning for CRIS participants with so
 Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
 The course includes theory and practice (notably the practicals (P)). 
 
-**Note**: Participants must have wifi access and a Google account so that they can work with Google Colab.
+**Note**: Participants must have wifi access and a Google account to work with Google Colab.
 
 <br> <br>
 **Instructors:** 
