@@ -44,6 +44,7 @@ The course includes theory and practice (notably the practicals (P)).
 |RN (blue) | Data Wrangling/ Understanding your data <br> Prepare Data for ML  |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
 |RN (blue) | Linear Regression from Scratch & Sklearn <br> Linear Regression with PyTorch | [LinReg_Scratch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing) [LinReg_Scratch_sol](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)|
 |RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1ty1mCbRNJcVSkXvo2SYe_6ZEIAoD7qtn#scrollTo=zgjnhjofj22j) |
+|SC(yellow)| Introduction to PyTorch  | [Intro2PyTorch](https://colab.research.google.com/drive/1Bdp9V8ij5d05ayqqiAZ2gS7ZklhNaVVu?usp=sharing) [Files](https://drive.google.com/drive/folders/1GNu-CsZp4jKPHGFHtkMne3FuDfDEzjrv)| 
 
 
 <br> <br>
