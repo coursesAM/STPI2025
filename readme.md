@@ -48,7 +48,8 @@ The course includes theory and practice (notably the practicals (P)).
 |SC (yellow)| ANN with PyTorch  |[ANN w PyTorch](https://colab.research.google.com/drive/1TjU4ethtTMJoWTIoRMrVS3uRYgdqdhq2?usp=sharing) <br> [Practice 1](https://colab.research.google.com/drive/1JxyLjdVWHLEOhj5K56e9oaqOILmLczrO?usp=sharing), [Practice 1 sol](https://colab.research.google.com/drive/1pZI_TC-29z6QzDtDfJhKT_xsAenzTbuE?usp=sharing)|
 |RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1sVmOl3VjgVEsK8JT_zA4IUBh695E4qsl?usp=sharing) |
 |RN (blue) | Performance Evaluation Metrics |[Eval_metrics](https://colab.research.google.com/drive/1LK62xrDBv8MaATYxLms-_rZilR5XJ7qt?usp=sharing) |
-|RN (blue) | Support Vector Machine | [SVM](https://colab.research.google.com/drive/1nn2uYXMzVHWEKHMEFqds-XKFyXNPOYBk?usp=sharing) |
+|RN (blue) | Support Vector Machine | [SVM](https://colab.research.google.com/drive/1nn2uYXMzVHWEKHMEFqds-XKFyXNPOYBk?usp=sharing) | 
+|SC (yellow)| Convolutional Neural Networks (CNN) | [CNN notes](https://csciitd-my.sharepoint.com/:p:/g/personal/souvik_iitd_ac_in/EcdPC_Pmf8dJqomRAKMeXtwBANfHNox9sXYC1kv-0SlwaQ?e=FjZgVQ)
 
 <br> <br>
 
