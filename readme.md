@@ -44,9 +44,10 @@ The course includes theory and practice (notably the practicals (P)).
 |RN (blue) | Data Wrangling/ Understanding your data <br> Prepare Data for ML  |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
 |RN (blue) | Linear Regression from Scratch & Sklearn <br> Linear Regression with PyTorch | [LinReg_Scratch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing), [LinReg_Scratch_sol](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)|
 |SC (yellow)| Introduction to PyTorch  | [Intro2PyTorch](https://colab.research.google.com/drive/1Bdp9V8ij5d05ayqqiAZ2gS7ZklhNaVVu?usp=sharing),  [Files](https://drive.google.com/drive/folders/1GNu-CsZp4jKPHGFHtkMne3FuDfDEzjrv)| 
-|RN (blue) | Performance Evaluation Metrics |[Eval_metrics](https://colab.research.google.com/drive/1LK62xrDBv8MaATYxLms-_rZilR5XJ7qt?usp=sharing) |
-|RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1sVmOl3VjgVEsK8JT_zA4IUBh695E4qsl?usp=sharing) |
 |SC (yellow)| ANN with PyTorch  |[ANN w PyTorch](https://colab.research.google.com/drive/1TjU4ethtTMJoWTIoRMrVS3uRYgdqdhq2?usp=sharing) <br> [Practice 1](https://colab.research.google.com/drive/1JxyLjdVWHLEOhj5K56e9oaqOILmLczrO?usp=sharing), [Practice 1 sol](https://colab.research.google.com/drive/1pZI_TC-29z6QzDtDfJhKT_xsAenzTbuE?usp=sharing)|
+|RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1sVmOl3VjgVEsK8JT_zA4IUBh695E4qsl?usp=sharing) |
+|RN (blue) | Performance Evaluation Metrics |[Eval_metrics](https://colab.research.google.com/drive/1LK62xrDBv8MaATYxLms-_rZilR5XJ7qt?usp=sharing) |
+|RN (blue) | Support Vector Machine | [SVM](https://colab.research.google.com/drive/1nn2uYXMzVHWEKHMEFqds-XKFyXNPOYBk?usp=sharing) |
 
 <br> <br>
 
