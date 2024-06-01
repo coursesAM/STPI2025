@@ -49,7 +49,8 @@ The course includes theory and practice (notably the practicals (P)).
 |RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1sVmOl3VjgVEsK8JT_zA4IUBh695E4qsl?usp=sharing) |
 |RN (blue) | Performance Evaluation Metrics |[Eval_metrics](https://colab.research.google.com/drive/1LK62xrDBv8MaATYxLms-_rZilR5XJ7qt?usp=sharing) |
 |RN (blue) | Support Vector Machine | [SVM](https://colab.research.google.com/drive/1nn2uYXMzVHWEKHMEFqds-XKFyXNPOYBk?usp=sharing) | 
-|SC (yellow)| Convolutional Neural Networks (CNN) | [CNN notes](https://csciitd-my.sharepoint.com/:p:/g/personal/souvik_iitd_ac_in/EcdPC_Pmf8dJqomRAKMeXtwBANfHNox9sXYC1kv-0SlwaQ?e=FjZgVQ)
+|SC (yellow)| Convolutional Neural Networks (CNN) | [CNN notes](https://csciitd-my.sharepoint.com/:p:/g/personal/souvik_iitd_ac_in/EcdPC_Pmf8dJqomRAKMeXtwBANfHNox9sXYC1kv-0SlwaQ?e=FjZgVQ) |
+|SC (yellow)| CNN (Practical) | [CNN](https://colab.research.google.com/drive/1GF9bKOMGxWP6p7ELI1XYAOY2PtZfTl2o?usp=sharing), [CNN Network](https://colab.research.google.com/drive/1NFQKp0W_blRMD9GPU3C3KucIMVfFvRpc?usp=sharing), <br> [CNN_FM](https://colab.research.google.com/drive/1Lmz1eVtGgWFxF0c6nzBnetgAxrvhfWG-?usp=sharing), [Data](https://drive.google.com/drive/folders/1IKzr2Rit9nsmv07rFKTM1_ER5qyq9V7X?usp=sharing) |
 
 <br> <br>
 
