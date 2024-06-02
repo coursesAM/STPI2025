@@ -53,6 +53,7 @@ The course includes theory and practice (notably the practicals (P)).
 |SC (yellow)| CNN (Practical) | [CNN](https://colab.research.google.com/drive/1GF9bKOMGxWP6p7ELI1XYAOY2PtZfTl2o?usp=sharing), [CNN Network](https://colab.research.google.com/drive/1NFQKp0W_blRMD9GPU3C3KucIMVfFvRpc?usp=sharing), <br> [CNN_FM](https://colab.research.google.com/drive/1Lmz1eVtGgWFxF0c6nzBnetgAxrvhfWG-?usp=sharing), [Data](https://drive.google.com/drive/folders/1IKzr2Rit9nsmv07rFKTM1_ER5qyq9V7X?usp=sharing) |
 |RN (blue) | Decision Trees | [Decision Trees](https://colab.research.google.com/drive/12KpMnlZsoteBc5ExGG35I2YWv5FfjCpv?usp=sharing) |
 |RN (blue) | TensorFlow Runthrough | [NN w TensorFlow 1](https://colab.research.google.com/drive/1WDbMHWRRd6ejILj4YvTG3RMHgc-q2QeU?usp=sharing) <br> [NN w TensorFlow 2](https://colab.research.google.com/drive/17FkyTgubcYhvPHQszpkQctkvcX5BMFO8?usp=sharing) |
+|SC (yellow)| CNN (Practical) | [RNN Practical](https://colab.research.google.com/drive/17eq3gOED9ynqc0_aeWICdJ_VtJyaxWFF?usp=sharing)|
 
 <br> <br>
 
