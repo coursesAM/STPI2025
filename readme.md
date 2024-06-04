@@ -89,5 +89,7 @@ The course includes theory and practice (notably the practicals (P)).
 <br> <br>
 
 ## Grading  
-Assessment will be done using marks obtained in practicals
+Assessment will be done using marks obtained in practicals.
+
+Please take this [QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSdv2T8HOpzwKQjwy6qjEEFYT0FRDVBE-5ns2en2352BHvXwsg/viewform?usp=sf_link)
 
