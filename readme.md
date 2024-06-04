@@ -59,6 +59,7 @@ The course includes theory and practice (notably the practicals (P)).
 |SC (yellow)| PCA (Practical) | [PCA Practice](https://colab.research.google.com/github/redwankarimsony/PCA-from-Scratch-in-Python/blob/main/PCA_with_MNIST_Dataset.ipynb), [Data](https://drive.google.com/drive/folders/1eP6NPdwV5MYJY9xkjxo1tW024FodRU0X?usp=sharing)|
 |SC (yellow)| K-means clustering | [KMeans](https://colab.research.google.com/drive/1B0wLi7ejfaKGr0QiuCFFUqq8e1udG5e5?usp=sharing)|
 |RN (blue) | KMeans Clustering (with Sklearn) | [KMeans_sklearn](https://colab.research.google.com/drive/1naGl6oFhWhpvv5c0ManJdHmQcKFcoGgR?usp=sharing)|
+|RN (blue) | Random Forests |[Random Forests](https://colab.research.google.com/drive/1BpZ3QEbbT8od9lbjEvhF9T7zAvFKy4Q8?usp=sharing) |
 |RN (blue) | Save and Load Models | [Save Models](https://colab.research.google.com/drive/1WodtWy_jgKeP2Sr1DJ9ovnvrtzOC-ZRq?usp=sharing) | 
 |RN (blue) | User Aspects of ML | [User Practices](Lectures/UserAspectsML.pdf)|
 
