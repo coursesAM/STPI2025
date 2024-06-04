@@ -76,6 +76,7 @@ The course includes theory and practice (notably the practicals (P)).
 | Logistic Regression | [L6](Lectures/LogisticRegression.pdf)|
 | Optimization | [L7](Lectures/Parm_Opt.pdf) |
 | Support Vector Machine| [L8](https://github.com/coursesAM/APL405W24/blob/6196cdf0a18eccf77b53ee45dfd6b3618ceba7fb/Lectures/Lecture18.pdf) |
+| Ensemble Methods | [L9](Lectures/Ensembles.pdf) |
 | Random Forests | [L9](Lectures/RF.pdf) |
 
 
