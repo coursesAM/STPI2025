@@ -55,6 +55,8 @@ The course includes theory and practice (notably the practicals (P)).
 |SC (yellow) | Recurrent Neural Networks | [L1](Lectures/RNN.pdf), [L2](Lectures/RNN2.pdf) | 
 |SC (yellow)| RNN (Practical) | [RNN Practical](https://colab.research.google.com/drive/17eq3gOED9ynqc0_aeWICdJ_VtJyaxWFF?usp=sharing)|
 |RN (blue) | TensorFlow Runthrough | [NN w TensorFlow 1](https://colab.research.google.com/drive/1WDbMHWRRd6ejILj4YvTG3RMHgc-q2QeU?usp=sharing) <br> [NN w TensorFlow 2](https://colab.research.google.com/drive/11sHp_WrlRSnkig1JzszwKbbXhQ0dDWP3?usp=sharing) |
+|SC (yellow)| Unsupervised Learning | [Notesl](Lectures/USL.pdf)|
+|SC (yellow)| PCA (Practical) | [PCA Practice](https://colab.research.google.com/github/redwankarimsony/PCA-from-Scratch-in-Python/blob/main/PCA_with_MNIST_Dataset.ipynb)|
 |RN (blue) | KMeans Clustering (with Sklearn) | [KMeans_sklearn](https://colab.research.google.com/drive/1naGl6oFhWhpvv5c0ManJdHmQcKFcoGgR?usp=sharing)|
 |RN (blue) | Save and Load Models | [Save Models](https://colab.research.google.com/drive/1WodtWy_jgKeP2Sr1DJ9ovnvrtzOC-ZRq?usp=sharing) | 
 |RN (blue) | User Aspects of ML | [UserPractices](Lectures/UserAspectsML.pdf)|
