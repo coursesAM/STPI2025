@@ -11,7 +11,7 @@ This is an introductory course to machine learning for STPI participants with so
 - Decision trees
 - Neural networks (ANN, CNN, RNN)
 - k-means clustering
-- 
+- Ensemble methods
 
 Heavy focus will be placed on understanding fundamental algorithms for ML.
 The course includes theory and case studies. 
@@ -27,10 +27,9 @@ The course includes theory and case studies.
 **Venue:** IIT Delhi, LHC 212 (Conference Room)
 <br> <br>
 
-**Participants:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
+**Participants:** [Link here](https://docs.google.com/spreadsheets/d/1xkLnCM9qTsG5AlYkEy6qsFLdM_OUc5ae3enXBp5fuII/edit?usp=sharing)
 
 <br> <br>
-![image](https://github.com/coursesAM/CRIS2024/assets/109568856/4ab3910d-6044-4b56-a66f-bfb0964ba97c)
 
 <br> <br>
 # Lectures
