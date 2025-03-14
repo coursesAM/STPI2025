@@ -2,7 +2,7 @@
 Sponsored by **Software Technology Parks of India (STPI)**
 
 
-Welcome to the course website!
+Welcome to the training website!
 
 ## Course Content
 This is an introductory course to machine learning for STPI participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
