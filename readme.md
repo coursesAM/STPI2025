@@ -1,27 +1,27 @@
-# Machine Learning in Python/TensorFlow (or PyTorch) from Scratch 
-Sponsored by **Center for Railway Information Systems (CRIS)**
+# Fundamentals of AI/ML and Applications 
+Sponsored by **Software Technology Parks of India (STPI)**
 
 
 Welcome to the course website!
 
 ## Course Content
-This is an introductory course to machine learning for CRIS participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
+This is an introductory course to machine learning for STPI participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
 - Classification via logistic regression
-- Support Vector Machine 
 - Decision trees
 - Neural networks (ANN, CNN, RNN)
 - k-means clustering
+- 
 
-Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
-The course includes theory and practice (notably the practicals (P)). 
+Heavy focus will be placed on understanding fundamental algorithms for ML.
+The course includes theory and case studies. 
 
 **Note**: Participants must have wifi access and a Google account to work with Google Colab.
 
 <br> <br>
 **Instructors:** 
 * Rajdip Nayek [RN] (rajdipn@am.iitd.ac.in) 
-* Souvik Chakraborty [SC] (souvik@am.iitd.ac.in)                 
+* Rushdie Islam [SC] (rushdie@am.iitd.ac.in)                 
 
 <br> <br>
 **Venue:** IIT Delhi, LHC 212 (Conference Room)
