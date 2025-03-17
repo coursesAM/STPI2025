@@ -31,7 +31,7 @@ The course includes theory and case studies.
 
 [Link here](https://docs.google.com/spreadsheets/d/1xkLnCM9qTsG5AlYkEy6qsFLdM_OUc5ae3enXBp5fuII/edit?usp=sharing)
 
-<br>
+
 
 [Wifi Access](stpi.pdf)
 
