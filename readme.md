@@ -40,13 +40,13 @@ The course includes theory and case studies.
 
 |Instructor| Topic | Lecture Notes | 
 |:----------:|:------------------------------:|:------------------:|
-|SC (yellow) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
-|RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
-|SC (yellow) | Linear Regression <br> Logistic Regression | [Lecture](Lectures/Lecture-3_cris.pdf) | 
-|RN (blue) | Pandas and Matplotlib Crash Course| [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
-|RN (blue) | Data Wrangling/ Understanding your data <br> Prepare Data for ML  |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
-|RN (blue) | Linear Regression from Scratch & Sklearn <br> Linear Regression with PyTorch | [LinReg_Scratch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing), [LinReg_Scratch_sol](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)|
-|SC (yellow) | Artificial Neural Networks (ANN)| [ANN notes](https://csciitd-my.sharepoint.com/:p:/g/personal/souvik_iitd_ac_in/EYUdDY0-uH5MnUitD53gZVsB-U2AiRC1WQDJzRSmxQ3XUw?e=wiTLNm) |
+|RN (yellow) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
+|RN (yellow) | Supervised Learning | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
+|RI (blue) | kNN  | [Lecture](Lectures/Lecture-3_cris.pdf) | 
+|RI (blue) | Decision Tree | [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
+|RI (yellow) | Linear Regression |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
+|RN (blue) | Logistic Regression | [LinReg_Scratch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing), [LinReg_Scratch_sol](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)|
+|RI (blue) | | [Bias-Variance <br>  Optimization](https://csciitd-my.sharepoint.com/:p:/g/personal/souvik_iitd_ac_in/EYUdDY0-uH5MnUitD53gZVsB-U2AiRC1WQDJzRSmxQ3XUw?e=wiTLNm) |
 |SC (yellow)| Introduction to PyTorch  | [Intro2PyTorch](https://colab.research.google.com/drive/1Bdp9V8ij5d05ayqqiAZ2gS7ZklhNaVVu?usp=sharing),  [Files](https://drive.google.com/drive/folders/1GNu-CsZp4jKPHGFHtkMne3FuDfDEzjrv)| 
 |SC (yellow)| ANN with PyTorch  |[ANN w PyTorch](https://colab.research.google.com/drive/1TjU4ethtTMJoWTIoRMrVS3uRYgdqdhq2?usp=sharing) <br> [Practice 1](https://colab.research.google.com/drive/1JxyLjdVWHLEOhj5K56e9oaqOILmLczrO?usp=sharing), [Practice 1 sol](https://colab.research.google.com/drive/1pZI_TC-29z6QzDtDfJhKT_xsAenzTbuE?usp=sharing)|
 |RN (blue) | Logistic Regression with Scikit | [LogReg](https://colab.research.google.com/drive/1sVmOl3VjgVEsK8JT_zA4IUBh695E4qsl?usp=sharing) |
