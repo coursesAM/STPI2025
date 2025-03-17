@@ -42,14 +42,14 @@ The course includes theory and case studies.
 <br> <br>
 # Lectures
 
-|Instructor| Topic | Lecture Notes | 
-|:----------:|:------------------------------:|:------------------:|
-|RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture1-AI_ML.pdf) | 
-|RN (blue) | Supervised Learning | [Lecture](Lectures/Lecture2-Supervised_Learning.pdf) | 
-|RI (red) | kNN  | [Lecture](Lectures/Lecture-3_cris.pdf) | 
-|RI (red) | Decision Tree | [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
-|RI (red) | Linear Regression |  [Data_Wrangling](https://colab.research.google.com/drive/1QW4Gk6VcPnlSVXfMvwMTcI3OCNzmRQlC) <br> [Prepare_Data](https://colab.research.google.com/drive/19SYTvWptUBR4w7mKayzjJ1wtfTfLQpPY?usp=sharing) | 
-|RN (blue) | Logistic Regression | [LinReg_Scratch](https://colab.research.google.com/drive/1OhVXsRUei6B_TLAoV84WuZ0yVIZDi1sH?usp=sharing), [LinReg_Scratch_sol](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) <br> [LinReg_PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)|
+|Instructor|  Lecture Notes | 
+|:----------:|:-------------------------------------------:|
+|RN (blue) | [Introduction to AI/ML](Lectures/Lecture1-AI_ML.pdf) | 
+|RN (blue) | [Supervised Learning](Lectures/Lecture2-Supervised_Learning.pdf) | 
+|RI (red) | [kNN](Lectures/Lecture-3_cris.pdf) | 
+|RI (red) | [Decision Tree](Lectures/Lecture-3_cris.pdf)|
+|RI (red) | [Linear Regression](Lectures/Lecture-3_cris.pdf) | 
+|RN (blue) | [Logistic Regression](Lectures/Lecture-3_cris.pdf) |
 
 
 
