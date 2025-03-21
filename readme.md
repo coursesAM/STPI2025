@@ -50,8 +50,9 @@ The course includes theory and case studies.
 |RI (red) | [Decision Tree](Lectures/Lecture-3_cris.pdf)|
 |RI (red) | [Linear Regression](Lectures/Lecture-3_cris.pdf) | 
 |RN (blue) | [Logistic Regression](Lectures/Lecture-3_cris.pdf) |
-|RN (blue)| [Support Vector Machine (SVM)](Lectures/Lecture17.pdf) |
+|RN (blue) | [RNN-Attention](Lectures/Lecture-RNN.pdf) |
 |RN (blue)| [HealthCare CaseStudy](Lectures/CaseStudy-Healthcare.pdf) |
+|RN (blue)| [Support Vector Machine (SVM)](Lectures/Lecture17.pdf) |
 |RN (blue)| [Ensemble Methods (Bagging)](Lectures/Lecture18.pdf) |
 |RN (blue)| [Ensemble Methods (Bossting)](Lectures/Lecture19.pdf) |
 |Mod 09| Generative Models & Unsupervised Learning <br> [Gaussian mixture models](Lectures/Lecture21.pdf)  <be> [GMM (with EM)](Lectures/Lecture22.pdf) <be> [PCA](Lectures/Lecture24.pdf) |
