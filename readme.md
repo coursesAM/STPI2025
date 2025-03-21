@@ -54,7 +54,7 @@ The course includes theory and case studies.
 |RN (blue)| [HealthCare CaseStudy](Lectures/CaseHealth.pdf) |
 |RN (blue)| [Ensemble Methods (Bagging)](Lectures/Lecture18.pdf) |
 |RN (blue)| [Ensemble Methods (Bossting)](Lectures/Lecture19.pdf) |
-|Mod 09| Generative Models & <br> Unsupervised Learning  [Gaussian mixture models](Lectures/Lecture21.pdf)  <be> [GMM (with EM)](Lectures/Lecture22.pdf) <be> [PCA](Lectures/Lecture24.pdf) |
+|Mod 09| Generative Models & Unsupervised Learning <br> [Gaussian mixture models](Lectures/Lecture21.pdf)  <be> [GMM (with EM)](Lectures/Lecture22.pdf) <be> [PCA](Lectures/Lecture24.pdf) |
 
 
 <br> <br>
