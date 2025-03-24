@@ -52,7 +52,7 @@ The course includes theory and case studies.
 |RN (blue)| [HealthCare CaseStudy](Lectures/CaseStudy-Healthcare.pdf) |
 |RN (blue)| [Support Vector Machine (SVM)](Lectures/Lecture18.pdf) |
 |RN (blue)| [Ensemble Methods (Bagging)](Lectures/Lecture19.pdf) |
-|RN (blue)| [Ensemble Methods (Bossting)](Lectures/Lecture20.pdf) |
+|RN (blue)| [Ensemble Methods (Boosting)](Lectures/Lecture20.pdf) |
 |RN (blue)| Generative Models & Unsupervised Learning <br> [Gaussian mixture models](Lectures/Lecture21.pdf)  <be> [GMM (with EM)](Lectures/Lecture22.pdf) <be> [PCA](Lectures/Lecture24.pdf) |
 
 
