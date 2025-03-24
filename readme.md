@@ -44,10 +44,10 @@ The course includes theory and case studies.
 |:----------:|:-------------------------------------------:|
 |RN (blue) | [Introduction to AI/ML](Lectures/Lecture1-AI_ML.pdf) | 
 |RN (blue) | [Supervised Learning](Lectures/Lecture2-Supervised_Learning.pdf) | 
-|RI (red) | [kNN](Lectures/Lecture-3_cris.pdf) | 
-|RI (red) | [Decision Tree](Lectures/Lecture-3_cris.pdf)|
-|RI (red) | [Linear Regression](Lectures/Lecture-3_cris.pdf) | 
-|RN (blue) | [Logistic Regression](Lectures/Lecture-3_cris.pdf) |
+|RI (red) | [kNN](Lectures/kNN.pdf) | 
+|RI (red) | [Decision Tree](Lectures/Decision-Tree.pdf)|
+|RI (red) | [Linear Regression](Lectures/Lecture5.pdf) | 
+|RN (blue) | [Logistic Regression](Lectures/Lecture6.pdf) |
 |RN (blue) | [RNN-Attention](Lectures/Lecture-RNN.pdf) |
 |RN (blue)| [HealthCare CaseStudy](Lectures/CaseStudy-Healthcare.pdf) |
 |RN (blue)| [Support Vector Machine (SVM)](Lectures/Lecture17.pdf) |
